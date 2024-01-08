@@ -1,2 +1,2 @@
-# tableau
+# Tableau
 Dashboards of the projects
